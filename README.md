@@ -8,7 +8,6 @@ Hello! I am iOS Developer based in Germany. Since the age of 17 I have been deve
 
 ## 😎📱 Personal Apps
 [How long until school bell? - Сlass schedule and school calls with homework in one app](https://apps.apple.com/ru/app/c%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE-%D0%B4%D0%BE-%D0%B7%D0%B2%D0%BE%D0%BD%D0%BA%D0%B0/id1450525476)
-
 [TeaTimer - Brewing delicious tea on a timer in App](https://apps.apple.com/ru/app/teatimer/id1462275983)
 
 ## 👁📱 Open source Apps 
