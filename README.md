@@ -3,6 +3,8 @@
 ## 👨🏻‍💻 About me
 Hello! I am iOS Developer based in Germany. Since the age of 17 I have been developing apps in order to make our world a better place!
 
+## 💼 My portfolio
+[Click here to open my portfolio](https://drive.google.com/file/d/1Y0SmDdefkjFaIpH2e1XT8OAYnnIRa49T/view?usp=sharing)
 ## 🤝📱 Cooperation Apps
 [egebook - Our own educational startup](https://apps.apple.com/ru/app/%D0%B5%D0%B3%D1%8D%D0%B1%D1%83%D0%BA-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BA-%D0%B5%D0%B3%D1%8D/id1491193921)
 
