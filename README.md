@@ -7,7 +7,7 @@ Hello! I am iOS Developer based in Germany. Since the age of 17 I have been deve
 [Click here to open my portfolio](https://drive.google.com/file/d/1Y0SmDdefkjFaIpH2e1XT8OAYnnIRa49T/view?usp=sharing)
 
 ##  WWDC Swift Student Challenge
-[WWDC23 Time Machine](https://github.com/IKorabel/WWDC23-TimeMachineApp)
+[Time Machine App - WWDC23 submission](https://github.com/IKorabel/WWDC23-TimeMachineApp)
 
 ## 🤝📱 Cooperation Apps
 [egebook - Our own educational startup](https://apps.apple.com/ru/app/%D0%B5%D0%B3%D1%8D%D0%B1%D1%83%D0%BA-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BA-%D0%B5%D0%B3%D1%8D/id1491193921)
